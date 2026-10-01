@@ -543,7 +543,7 @@ proxies:
   type: ss
 - alterId: 2
   cipher: auto
-  name: Hong Kong_Central_vmess_1166
+  name: Hong Kong_Tuen Mun_vmess_1166
   port: 30807
   server: v10.hdacd.com
   skip-cert-verify: false
@@ -732,7 +732,7 @@ proxies:
     path: /ws-vmess
 - alterId: 2
   cipher: auto
-  name: Hong Kong_Central_vmess_1179
+  name: Hong Kong_Tuen Mun_vmess_1179
   network: tcp
   port: 30807
   server: v10.hdacd.com
@@ -916,7 +916,7 @@ proxy-groups:
   - None_None_trojan_1163
   - Malaysia_Kuala Lumpur_trojan_1164
   - United States_None_ss_1165
-  - Hong Kong_Central_vmess_1166
+  - Hong Kong_Tuen Mun_vmess_1166
   - Hong Kong_Hong Kong_vmess_1167
   - Hong Kong_Hong Kong_vmess_1168
   - Hong Kong_Hong Kong_vmess_1169
@@ -929,7 +929,7 @@ proxy-groups:
   - Singapore_None_vmess_1176
   - United States_None_vmess_1177
   - Singapore_None_vmess_1178
-  - Hong Kong_Central_vmess_1179
+  - Hong Kong_Tuen Mun_vmess_1179
   - United States_None_trojan_1180
   - United States_None_trojan_1181
   - United States_None_trojan_1182
@@ -1016,7 +1016,7 @@ proxy-groups:
   - None_None_trojan_1163
   - Malaysia_Kuala Lumpur_trojan_1164
   - United States_None_ss_1165
-  - Hong Kong_Central_vmess_1166
+  - Hong Kong_Tuen Mun_vmess_1166
   - Hong Kong_Hong Kong_vmess_1167
   - Hong Kong_Hong Kong_vmess_1168
   - Hong Kong_Hong Kong_vmess_1169
@@ -1029,7 +1029,7 @@ proxy-groups:
   - Singapore_None_vmess_1176
   - United States_None_vmess_1177
   - Singapore_None_vmess_1178
-  - Hong Kong_Central_vmess_1179
+  - Hong Kong_Tuen Mun_vmess_1179
   - United States_None_trojan_1180
   - United States_None_trojan_1181
   - United States_None_trojan_1182
